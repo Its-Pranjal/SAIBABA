@@ -1,0 +1,32 @@
+/* CustomCalendar.css */
+
+/* Style for the custom date cell */
+.custom-date-cell {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Red color for high booking */
+.red {
+    background-color: #ff6347;
+    color: white;
+}
+
+/* Green color for low booking */
+.green {
+    background-color: #00cc44;
+    color: white;
+}
+
+/* Yellow color for moderate booking */
+.yellow {
+    background-color: #ffd700;
+    color: black;
+}

@@ -1,0 +1,21 @@
+.smallImg{
+    height: 200px;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+
+.bigImg{
+    height: 400px ;
+    border-radius: 5px !important;
+}
+.btn{
+    background-color: black !important;
+    color: whitesmoke !important;
+
+}
+.bs{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 20px !important;
+    border-radius: 5px !important;
+    padding: 20px !important;
+}
